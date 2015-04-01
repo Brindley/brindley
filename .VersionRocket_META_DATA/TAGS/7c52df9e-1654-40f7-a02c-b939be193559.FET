@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FolderEntryTags xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>7c52df9e-1654-40f7-a02c-b939be193559</Id>
+  <FolderEntry>
+    <EntryType>File</EntryType>
+    <DisplayName>Excel_test1.xlsx</DisplayName>
+    <PathInsideRepo>Excel</PathInsideRepo>
+    <RepoRootFolder>C:\Users\nigel\Documents\VersionRocket Repositories\brindley</RepoRootFolder>
+    <Deleted>false</Deleted>
+    <Contents />
+    <FolderEntryView>Thumbnail</FolderEntryView>
+  </FolderEntry>
+  <Tags>
+    <guid>8e5c3ebb-b38c-4120-aead-b81b784142ba</guid>
+    <guid>3398604e-128a-4765-aa87-6efac51b2983</guid>
+  </Tags>
+</FolderEntryTags>
