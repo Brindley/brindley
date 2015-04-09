@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FolderEntryTags xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<FolderEntryTags xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Id>646907a0-a0f6-47e8-9319-6cd0ef03636f</Id>
   <FolderEntry>
     <EntryType>File</EntryType>
@@ -12,5 +12,6 @@
   </FolderEntry>
   <Tags>
     <guid>3398604e-128a-4765-aa87-6efac51b2983</guid>
+    <guid>8e5c3ebb-b38c-4120-aead-b81b784142ba</guid>
   </Tags>
 </FolderEntryTags>
